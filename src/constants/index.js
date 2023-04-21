@@ -184,6 +184,46 @@ const projects = [
         image: kascodex,
         source_code_link: "https://kas-codex.vercel.app/",
     },
+
+    {
+        name: "YouTube Clone App",
+        description:
+            "A platform that allows you to upload, share, and watch videos online. With a user-friendly interface,you can easily create and customize your profile, search for videos by keywords, categories, and channels, and interact with other users through comments and likes. ",
+        tags: [
+            {
+                name: "tailwind",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "nodejs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "react",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: youtubeclone,
+        source_code_link: "https://chris-kas-sebli.vercel.app/",
+    },
+    {
+        name: "Fitness App",
+        description:
+            "Transform your body and mind with our comprehensive fitness app designed to help you achieve your health goals.",
+        tags: [
+            {
+                name: "tailwind",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "react",
+                color: "green-text-gradient",
+            },
+
+        ],
+        image: exercises,
+        source_code_link: "https://gym-by-kassu.onrender.com/",
+    },
     {
         name: "Ecommerce",
         description:
@@ -225,45 +265,6 @@ const projects = [
         ],
         image: refinedashboard,
         source_code_link: "https://github.com/Kas1398/refine_dashboard.git",
-    },
-    {
-        name: "YouTube Clone App",
-        description:
-            "A platform that allows you to upload, share, and watch videos online. With a user-friendly interface,you can easily create and customize your profile, search for videos by keywords, categories, and channels, and interact with other users through comments and likes. ",
-        tags: [
-            {
-                name: "tailwind",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "nodejs",
-                color: "green-text-gradient",
-            },
-            {
-                name: "react",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: youtubeclone,
-        source_code_link: "https://chris-kas-sebli.vercel.app/",
-    },
-    {
-        name: "Fitness App",
-        description:
-            "Transform your body and mind with our comprehensive fitness app designed to help you achieve your health goals.",
-        tags: [
-            {
-                name: "tailwind",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "react",
-                color: "green-text-gradient",
-            },
-
-        ],
-        image: exercises,
-        source_code_link: "https://gym-by-kassu.onrender.com/",
     },
 ];
 
