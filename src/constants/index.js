@@ -13,7 +13,6 @@ import {
     mongodb,
     git,
     figma,
-    //meta,
     freelancer,
     kascodex,
     youtubeclone,
@@ -134,19 +133,6 @@ const experiences = [
             "Collaborating with team members",
         ],
     },
-    /*{
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#E6DEDD",
-        date: "May 2022 - Present",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },*/
 ];
 
 const testimonials = [
@@ -169,10 +155,10 @@ const testimonials = [
     {
         testimonial:
             "After Kassu optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
+        name: "Workneh Tamire",
         designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+        company: "Epassi Finland Oy",
+        image: "https://randomuser.me/api/portraits/lego/5.jpg",
     },
 ];
 
@@ -201,7 +187,7 @@ const projects = [
     {
         name: "Ecommerce",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Shop with ease and convenience using our feature-packed Ecommerce app for all your online buying and selling needs.",
         tags: [
             {
                 name: "react",
@@ -222,7 +208,7 @@ const projects = [
     {
         name: "Refine Dashboard",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Our real estate includes residential properties such as apartments or single-family homes, as well as commercial properties like office buildings or retail spaces.",
         tags: [
             {
                 name: "mongodb",
@@ -243,7 +229,7 @@ const projects = [
     {
         name: "YouTube Clone App",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "A platform that allows you to upload, share, and watch videos online. With a user-friendly interface,you can easily create and customize your profile, search for videos by keywords, categories, and channels, and interact with other users through comments and likes. ",
         tags: [
             {
                 name: "tailwind",
@@ -264,7 +250,7 @@ const projects = [
     {
         name: "Fitness App",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Transform your body and mind with our comprehensive fitness app designed to help you achieve your health goals.",
         tags: [
             {
                 name: "tailwind",
