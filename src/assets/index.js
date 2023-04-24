@@ -29,6 +29,7 @@ import ecommerce from "./ecommerce.png";
 import refinedashboard from "./refinedashboard.png";
 import youtubeclone from "./youtubeclone.png";
 import exercises from "./exercises.png";
+import summarizer from "./summarizer.png";
 
 
 export {
@@ -59,5 +60,6 @@ export {
   refinedashboard,
   ministryofHealth,
   freelancer,
-  exercises
+  exercises,
+  summarizer,
 };

@@ -21,6 +21,7 @@ import {
     refinedashboard,
     threejs,
     ministryofHealth,
+    summarizer
 } from "../assets";
 
 export const navLinks = [
@@ -212,6 +213,10 @@ const projects = [
             "Transform your body and mind with our comprehensive fitness app designed to help you achieve your health goals.",
         tags: [
             {
+                name: "nodejs",
+                color: "pink-text-gradient",
+            },
+            {
                 name: "tailwind",
                 color: "blue-text-gradient",
             },
@@ -223,6 +228,23 @@ const projects = [
         ],
         image: exercises,
         source_code_link: "https://gym-by-kassu.onrender.com/",
+    },
+    {
+        name: "Article Summarizer",
+        description:
+            "Your article summarization tool that utilizes natural language processing techniques to generate concise summaries of longer articles.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "green-text-gradient",
+            },
+        ],
+        image: summarizer,
+        source_code_link: "https://summarizer-by-kassahun.vercel.app/",
     },
     {
         name: "Ecommerce",
@@ -243,7 +265,7 @@ const projects = [
             },
         ],
         image: ecommerce,
-        source_code_link: "http://github.com/Kas1398/Ecommerce.git",
+        source_code_link: "https://github.com/Kas1398/Ecommerce.git",
     },
     {
         name: "Refine Dashboard",
