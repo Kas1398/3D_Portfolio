@@ -86,7 +86,12 @@ const Works = () => {
           ability to solve complex problems, work with different technologies,
           and manage projects effectively. <br />
           <br />
-          <strong>Click on the github Icons down below</strong>
+          <strong className="flex items-center">
+            Click on the Github Icons down below
+            <img src={github} alt="GitHub icon" className="ml-2 w-5 h-5" />
+          </strong>
+
+
         </motion.p>
       </div>
 

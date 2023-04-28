@@ -21,7 +21,8 @@ import {
     refinedashboard,
     threejs,
     ministryofHealth,
-    summarizer
+    summarizer,
+    //movieposter,
 } from "../assets";
 
 export const navLinks = [
@@ -268,7 +269,7 @@ const projects = [
         source_code_link: "https://github.com/Kas1398/Ecommerce.git",
     },
     {
-        name: "Refine Dashboard",
+        name: "KSC Real Estate",
         description:
             "Our real estate includes residential properties such as apartments or single-family homes, as well as commercial properties like office buildings or retail spaces.",
         tags: [
@@ -288,6 +289,23 @@ const projects = [
         image: refinedashboard,
         source_code_link: "https://github.com/Kas1398/refine_dashboard.git",
     },
+    /*{
+        name: "Movie Search",
+        description:
+            "A Movie Poster search app is a mobile or web-based application that allows users to search for movie posters from a vast collection of films. ",
+        tags: [
+            {
+                name: "threejs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "react",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: movieposter,
+        source_code_link: "https://movie-appby-christian-sebli-kassahun.vercel.app/",
+    },*/
 ];
 
 export { services, technologies, experiences, testimonials, projects };
