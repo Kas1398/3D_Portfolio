@@ -22,7 +22,7 @@ import {
     threejs,
     ministryofHealth,
     summarizer,
-    //movieposter,
+    customize,
 } from "../assets";
 
 export const navLinks = [
@@ -289,10 +289,10 @@ const projects = [
         image: refinedashboard,
         source_code_link: "https://github.com/Kas1398/refine_dashboard.git",
     },
-    /*{
-        name: "Movie Search",
+    {
+        name: "KSC 3D STORE",
         description:
-            "A Movie Poster search app is a mobile or web-based application that allows users to search for movie posters from a vast collection of films. ",
+            "Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and define your own style.",
         tags: [
             {
                 name: "threejs",
@@ -303,9 +303,9 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: movieposter,
-        source_code_link: "https://movie-appby-christian-sebli-kassahun.vercel.app/",
-    },*/
+        image: customize,
+        source_code_link: "https://customize-3d-tshirt-bykassahun.vercel.app/",
+    },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

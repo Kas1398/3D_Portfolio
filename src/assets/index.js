@@ -30,7 +30,7 @@ import refinedashboard from "./refinedashboard.png";
 import youtubeclone from "./youtubeclone.png";
 import exercises from "./exercises.png";
 import summarizer from "./summarizer.png";
-//import movieposter from "./movieposter.png";
+import customize from "./customize.png";
 
 
 export {
@@ -63,5 +63,5 @@ export {
   freelancer,
   exercises,
   summarizer,
-  // movieposter
+  customize
 };
