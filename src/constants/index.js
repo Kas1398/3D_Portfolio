@@ -266,7 +266,7 @@ const projects = [
             },
         ],
         image: ecommerce,
-        source_code_link: "https://github.com/Kas1398/Ecommerce.git",
+        source_code_link: "https://ecommerce-by-kassahun.vercel.app/",
     },
     {
         name: "KSC Real Estate",
