@@ -23,6 +23,7 @@ import {
     ministryofHealth,
     summarizer,
     customize,
+    kasspotify
 } from "../assets";
 
 export const navLinks = [
@@ -305,6 +306,28 @@ const projects = [
         ],
         image: customize,
         source_code_link: "https://customize-3d-tshirt-bykassahun.vercel.app/",
+    },
+    {
+        name: "Kasspotify Music",
+        description:
+            "Welcome to Kasspotify, where melody meets magic. Dive into a vast ocean of music and let your senses be captivated. Unleash your musical journey with Kasspotify and let the rhythm ignite your soul.",
+        tags: [
+            {
+                name: "threejs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "typescript",
+                color: "blue-text-gradient",
+            },
+
+            {
+                name: "react",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: kasspotify,
+        source_code_link: "https://kasspotify-music.vercel.app/",
     },
 ];
 
