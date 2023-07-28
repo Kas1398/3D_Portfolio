@@ -30,7 +30,7 @@ import refinedashboard from "./refinedashboard.png";
 import youtubeclone from "./youtubeclone.png";
 import exercises from "./exercises.png";
 import summarizer from "./summarizer.png";
-import customize from "./customize.png";
+//import customize from "./customize.png";
 import kasspotify from "./kasspotify.png";
 
 
@@ -64,6 +64,6 @@ export {
   freelancer,
   exercises,
   summarizer,
-  customize,
+  //customize,
   kasspotify
 };

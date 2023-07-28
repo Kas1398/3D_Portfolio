@@ -22,7 +22,7 @@ import {
     threejs,
     ministryofHealth,
     summarizer,
-    customize,
+    //customize,
     kasspotify
 } from "../assets";
 
@@ -290,7 +290,7 @@ const projects = [
         image: refinedashboard,
         source_code_link: "https://github.com/Kas1398/refine_dashboard.git",
     },
-    {
+    /*{
         name: "KSC 3D STORE",
         description:
             "Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and define your own style.",
@@ -306,7 +306,7 @@ const projects = [
         ],
         image: customize,
         source_code_link: "https://customize-3d-tshirt-bykassahun.vercel.app/",
-    },
+    },*/
     {
         name: "Kasspotify Music",
         description:
