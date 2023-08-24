@@ -14,7 +14,8 @@ import {
     git,
     figma,
     freelancer,
-    kascodex,
+    agelgil,
+    //kascodex,
     youtubeclone,
     ecommerce,
     exercises,
@@ -166,7 +167,7 @@ const testimonials = [
 ];
 
 const projects = [
-    {
+    /*{
         name: "KasCodex OpenAI",
         description:
             "An elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API, and most importantly, the ability to ask the AI for help ",
@@ -186,7 +187,7 @@ const projects = [
         ],
         image: kascodex,
         source_code_link: "https://kas-codex.vercel.app/",
-    },
+    },*/
 
     {
         name: "YouTube Clone App",
@@ -328,6 +329,28 @@ const projects = [
         ],
         image: kasspotify,
         source_code_link: "https://kasspotify-music.vercel.app/",
+    },
+    {
+        name: "Agelgil Ethiopian Cuisine",
+        description:
+            "We will continue to provide the experience of unforgettable memory, the Ethiopian mindset of hospitality, with our shopping and dining for our customers.",
+        tags: [
+            {
+                name: "html",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "css",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "javascript",
+                color: "green-text-gradient",
+            },
+
+        ],
+        image: agelgil,
+        source_code_link: "https://agelgil-bykassahun.vercel.app/",
     },
 ];
 

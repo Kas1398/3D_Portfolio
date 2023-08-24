@@ -24,12 +24,13 @@ import threejs from "./tech/threejs.svg";
 import freelancer from "./company/freelancer.png";
 import ministryofHealth from "./company/ministryofHealth.jpg"
 
-import kascodex from "./kascodex.png";
+//import kascodex from "./kascodex.png";
 import ecommerce from "./ecommerce.png";
 import refinedashboard from "./refinedashboard.png";
 import youtubeclone from "./youtubeclone.png";
 import exercises from "./exercises.png";
 import summarizer from "./summarizer.png";
+import agelgil from "./agelgil.png";
 //import customize from "./customize.png";
 import kasspotify from "./kasspotify.png";
 
@@ -57,7 +58,8 @@ export {
   typescript,
   threejs,
   youtubeclone,
-  kascodex,
+  agelgil,
+  //kascodex,
   ecommerce,
   refinedashboard,
   ministryofHealth,
