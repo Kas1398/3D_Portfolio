@@ -112,11 +112,24 @@ const technologies = [
 
 const experiences = [
     {
+        title: "MOOC Development and Testing (Internship)",
+        company_name: "Metropolia University Applied Science",
+        icon: freelancer,
+        iconBg: "#E6DEDD",
+        date: "Oct 2023 - Jan 2024",
+        points: [
+            "Actively engaged in testing phases,",
+            "Identifying and resolving potential issues to guarantee a seamless user experience.",
+            "Engage in self-learning to improve technical skills related to testing methodologies and tools",
+            "Collaborate with team members, including developers and other interns.",
+        ],
+    },
+    {
         title: "Environmental Health officer",
         company_name: "Ministry of Health",
         icon: ministryofHealth,
         iconBg: "#E6DEDD",
-        date: "Oct 2009 - Sep 2012",
+        date: "Oct 2007 - Sep 2012",
         points: [
             "Collaborating with other agencies and organizations to address environmental health concerns and promote public health.",
             "Inspecting and monitoring food premises to ensure compliance with health and safety regulations.",
@@ -158,7 +171,7 @@ const testimonials = [
     },
     {
         testimonial:
-            "After Kassu optimized our website, our traffic increased by 50%. We can't thank them enough!",
+            "After Kassu optimized our website, our traffic increased by 50%. We can't thank him enough!",
         name: "Workneh Tamire",
         designation: "CTO",
         company: "Epassi Finland Oy",
